@@ -1,0 +1,13 @@
+{
+  "name": "assistir-juntos-server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "socket.io": "^4.8.4"
+  }
+}
